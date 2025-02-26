@@ -3,6 +3,10 @@ import sys
 import math
 from pygame.locals import *
 
+# This game is not my concept or an original idea, I am just the programmer
+# I would name the person who gave me the idea but I don't know his name and
+# am too embarrassed to ask.
+
 # Initialize pygame
 pygame.init()
 
